@@ -1,0 +1,60 @@
+
+
+h1{
+  text-align: center;
+  color: #512DA8;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 50px;
+}
+.enterbutton{
+  width:300px;
+  height:100px
+  font-family: 'Roboto Condensed', sans-serif;
+  margin-top: 20px;
+  font-size: 70px;
+}
+.searchbox1{
+  width: 300px;
+  height: 40px;
+  text-align:center;
+  margin: 10px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+
+}
+
+.searchbox2{
+  width: 300px;
+  height: 40px;
+  text-align:center;
+  margin: 10px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+}
+
+.searchbox3{
+  width: 300px;
+  height: 40px;
+  text-align:center;
+  display:flex;
+  justify-content: center;
+  margin: 10px;
+  margin-bottom: 15px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+}
+
+.questions{
+  background-color: lightblue;
+
+}
+
+.celeb-container {
+  height: 700px;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: black;
+  font-size: 21.3px;
+}
+.entire{
+  background-color: lightgray;
+}
